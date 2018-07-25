@@ -1,6 +1,6 @@
 # Masterarbeit-Tamara-Becker
 
-For DNA Extraction Experiment and Brownie Baking Experiment the .mkv files are not included. Datasets have to added in the provided folders.
+For DNA Extraction Experiment and Brownie Baking Experiment the .mkv files are not included. Datasets have to be added in the provided folders.
 
 
 # Additional software modules in use:
